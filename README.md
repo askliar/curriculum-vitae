@@ -1,2 +1,2 @@
-# curriculum-vitae
-Curriculum Vitae updated to May 2019.
+# Andrii Skliar CV
+MSc Artificial Intelligence @ University of Amsterdam
