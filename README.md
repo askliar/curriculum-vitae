@@ -1,2 +1,2 @@
 # Andrii Skliar CV
-MSc Artificial Intelligence @ University of Amsterdam
+Research Engineer @ Qualcomm AI Research
