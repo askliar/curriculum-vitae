@@ -1,2 +1,2 @@
 # Andrii Skliar CV
-MTS @ Contextual AI
+DL Engineer @ Nvidia
